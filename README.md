@@ -2,7 +2,7 @@
 
     Wellcome to my URL Shortener.
     This application saves your important links and redirect for you when you needs their
-    Our project is based on [video](https://youtu.be/gq5yubc1u18)
+    Our project is based on video https://youtu.be/gq5yubc1u18
 
 ### New features:
 - TypeScript
